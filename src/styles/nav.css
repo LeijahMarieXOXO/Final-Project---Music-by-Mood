@@ -5,12 +5,12 @@ a:link {
     font-size: x-large;
 }
 a:visited {
-    color: rgb(85, 224, 217);
+    color: rgb(243, 25, 235)
     text-decoration: underline;
     font-size: x-large;
 }
 a:hover {
-    color: rgb(243, 25, 235);
+    color: rgb(191, 4, 185);
     text-decoration: underline;
     font-size: x-large;
 }
