@@ -37,8 +37,8 @@ This is a weather dashboard with a blog style incorporation of music to represen
 
 #### Deployment process:
 
-- Follow the guide [here](https://docs.github.com/en/pages/quickstart) to set up Github Pages
-- Follow the guide [here](https://docs.astro.build/en/guides/deploy/github/) to deploy the repository
+- Follow the link [here]https://leijahmariexoxo.github.io/Final-Project---Music-by-Mood/) to view the project on Github Pages
+- Follow the link [here](https://github.com/LeijahMarieXOXO/Final-Project---Music-by-Mood) to view the repository
 
 
 #### Development Process:
