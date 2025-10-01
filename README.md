@@ -37,7 +37,7 @@ This is a weather dashboard with a blog style incorporation of music to represen
 
 #### Deployment process:
 
-- Follow the link [here]https://leijahmariexoxo.github.io/Final-Project---Music-by-Mood/) to view the project on Github Pages
+- Follow the link [here](https://leijahmariexoxo.github.io/Final-Project---Music-by-Mood/) to view the project on Github Pages
 - Follow the link [here](https://github.com/LeijahMarieXOXO/Final-Project---Music-by-Mood) to view the repository
 
 
