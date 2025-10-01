@@ -1,19 +1,23 @@
 /* Styling links */
 a:link { 
-    color: rgb(236, 12, 165);
+    color: rgb(255, 255, 255);
     text-decoration: underline;
+    font-size: x-large;
 }
 a:visited {
-    color: rgb(106, 37, 140);
+    color: rgb(85, 224, 217);
     text-decoration: underline;
+    font-size: x-large;
 }
 a:hover {
-    color: rgb(0, 158, 202);
+    color: rgb(243, 25, 235);
     text-decoration: underline;
+    font-size: x-large;
 }
 a:active {
     color: rgb(8, 8, 8);
     text-decoration: underline;
+    font-size: x-large;
 }
 
 .nav-links a {
