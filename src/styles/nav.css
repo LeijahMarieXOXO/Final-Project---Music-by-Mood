@@ -1,6 +1,6 @@
 /* Styling links */
 a:link { 
-    color: rgb(255, 255, 255);
+    color: rgb(10, 120, 205);
     text-decoration: underline;
     font-size: x-large;
 }
@@ -15,7 +15,7 @@ a:hover {
     font-size: x-large;
 }
 a:active {
-    color: rgb(8, 8, 8);
+    color: rgb(110, 211, 76);
     text-decoration: underline;
     font-size: x-large;
 }
@@ -29,7 +29,7 @@ a:active {
 }
 .nav-links a:hover,
 .nav-links a:focus {
-  background-color: rgb(247, 247, 247);
+  background-color: rgb(12, 234, 131);
 }
     
 
